@@ -1,6 +1,6 @@
 
-Ola eu sou o <strong>Jânio Ferreira :raising_hand:</strong>, sou um <strong>Programador Front-End</strong> atualmente estou aprendendo e criando projetos.
-<br>
+  <h4> Ola me chamo <strong>Jânio Ferreira :raising_hand:</strong>, sou um <strong>Programador Front-End</strong> atualmente estou aprendendo e criando projetos.<h4>
+
 <br>
 <p>
   <a href="https://www.instagram.com/janio_w0w/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a>
