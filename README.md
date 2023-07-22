@@ -18,7 +18,7 @@ Ola eu sou o <strong>Jânio Ferreira :raising_hand:</strong>, sou um <strong>Pro
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-  <img align="left" height="250" alt="coding-time" src="![code](https://github.com/janioF91/First-brench/assets/140021700/dd9c5334-2a5d-45cb-b349-51f1f20465fe)">
+  <img align="left" height="250" alt="coding-time" src="https://github.com/janioF91/First-brench/blob/master/code.gif">
   <h3 align="center">Tecnologias que estou aprendendo e uso no meu dia a dia</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
