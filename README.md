@@ -15,17 +15,19 @@ Ola eu sou o <strong>Jânio Ferreira :raising_hand:</strong>, sou um <strong>Pro
 <br>
 
 <br>
-
+ 
 <div  align="center"> 
   <div style="display: inline_block"><br>
   <img align="left" height="250" alt="coding-time" src="https://github.com/janioF91/First-brench/blob/master/code.gif">
+    <h2>Codar é um modo de Pensar</h2>
   <h3 align="center">Tecnologias que estou aprendendo e uso no meu dia a dia</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="java-logo"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo"/>   
    </div>
-    
+ 
+ 
 
 
 
